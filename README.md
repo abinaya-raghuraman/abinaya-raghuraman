@@ -1,8 +1,6 @@
 # 👋 Hey there! I'm Abinaya Raghuraman  
 
-## 💻 Developer | Professional Debugger | Chaos Engineer  
-🤖 AI | IoT | ML | Sometimes makes things that actually work  
-
+### 💻 Developer | Professional Debugger | Chaos Engineer  
 ---
 
 ### 🚀 About Me  
@@ -46,11 +44,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
 ---
-
-### 🤡 Random Developer Facts  
-- I push code that *should* work. The universe disagrees.  
-- My debugger sees more of my code than I do.  
-- "Works on my machine" is my default excuse.  
 
 💡 **Fun fact:** My best ideas come at 3 AM... and are forgotten by 8 AM.  
 
