@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 About Me  
-- 🎻 Violinist | 🏃‍♂️ Runs (mostly from deadlines & marathons)  
-- 🎨 Artist | 🖼️ Sometimes I code, sometimes I paint over my bugs  
+- 🎻 Violin | 🏃‍♂️ Runs (mostly from deadlines & marathons)  
+- 🎨 Art | 🖼️ Sometimes I code, sometimes I paint over my bugs  
 - 📚 Tech & memes enthusiast | 🛠️ Debugging is just my love language  
 
 ---
